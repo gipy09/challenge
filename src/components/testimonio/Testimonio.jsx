@@ -32,7 +32,7 @@ function Testimonio() {
           ></button>
         </div>
         <div class="carousel-inner">
-          <div class="carousel-item active" data-bs-interval="5000">
+          <div class="carousel-item active" >
             
 
             <div className="contenido">
@@ -48,7 +48,7 @@ function Testimonio() {
             </div>
               </div>
           </div>
-          <div class="carousel-item active " data-bs-interval="6000">
+          <div class="carousel-item active " >
 
             <div className="contenido">
             <img src={vector} alt="..." className="imgtest"/>
@@ -62,7 +62,7 @@ function Testimonio() {
               </p>
             </div>
           </div>
-          <div class="carousel-item "data-bs-interval="7000" >
+          <div class="carousel-item " >
 
             <div className="contenido">
             <img src={vector} alt="..." className="imgtest"/>
