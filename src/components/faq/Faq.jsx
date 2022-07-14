@@ -17,7 +17,7 @@ function Faq() {
       <details>
       <summary>Titulo</summary>
       <div className="contenido">
-        <p className="info-contenido">Lorem ipsolor sit amet, consectetur adipisicing elit. In ad excepturi laboriosam accusamus perferendis vitae minima voluptatum accusantium. Inventore obcaecati voluptates, quo amet illum similique!</p>
+        <p className="info-contenido">Lorem ipsor sit amet, consectetur adipisicing elit. In ad excepturi laboriosam accusamus perferendis vitae minima voluptatum accusantium. Inventore obcaecati voluptates, quo amet illum similique!</p>
       </div>
       </details>
       <details>
