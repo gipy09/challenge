@@ -1,0 +1,44 @@
+.contenedor{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    height: 413px;
+    background-color: #ECF0F7;  
+     
+}
+.carousel-inner{
+
+   height: 280px;
+}
+.contenido{    
+    width: 100%;
+}
+.contenido p{
+    color: #414141;
+    font-family: Merriweather;
+}
+.contenido h5{
+    color: #000;
+    font-weight: 700;
+    font-family: Merriweather;
+}
+.imgtest{
+    margin-bottom: 30px;
+}
+@media (max-width:375px){
+    .carousel-inner{
+
+        height: 320px;
+     }
+     .contenedor{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        width: 100%;
+        height: 380px;
+        background-color: #ECF0F7;   
+    }
+}

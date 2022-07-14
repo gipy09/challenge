@@ -1,0 +1,104 @@
+.navbar {
+  background-color: rgb(255, 255, 255);
+  height: 64px;
+  display: flex;
+  font-family: Source Sans Pro;
+}
+.menu {
+  padding-left: 134px;
+}
+.search {
+  padding-right: 143px;
+}
+.drop-menu {
+  background-color: #fff !important;
+  margin-top: 18px !important;
+  margin-left: 130px !important;
+}
+.drop-menu li {
+  list-style: none;
+}
+
+.drop-menu li {
+  color: #555555;
+}
+
+.drop-menu li a {
+  text-decoration: none;
+  color: #555555;
+}
+.drop-menu li:hover {
+  text-decoration: none;
+  color: #555555;
+  border-bottom: 1px solid #b378ff;
+}
+.drop-menu li a:hover {
+  color: #b378ff;
+}
+.drop-menu h5 {
+  color: #b378ff;
+  font-size: 22px;
+  border-bottom: 1px solid #b378ff;
+
+}
+
+.title-item {
+  margin-left: 10px;
+  padding: 2px;
+}
+.lupa{
+  cursor: pointer;
+}
+.busqueda{
+  position: absolute;
+
+}
+.buscar{
+  border:1px solid #b378ff ;
+  border-radius: 4px;
+}
+
+
+.inputbuscar{
+  float: right !important;
+}
+
+@media (max-width: 833px) {
+  .menu {
+    padding-left: 60px;
+  }
+  .search {
+    padding-right: 60px;
+  }
+  .drop-menu {
+    background-color: #fff !important;
+    margin-top: 18px !important;
+    margin-left: 8px !important;
+  }
+  .menu-search{
+    width: 200px;
+    margin-top: 55px !important;
+  }
+  .menu-search .buscarinput{
+    width: 180px;
+    margin-left: 8px;
+    border: 0;
+  }
+}
+@media (max-width: 375px) {
+  .menu {
+    padding-left: 6px;
+  }
+  .search {
+    padding-right: 6px;
+  }
+  .logo{
+    margin-left: 30px;
+  }
+  .menu-search{
+    margin-top: 55px !important;
+  }
+  .menu-search .buscarinput{
+    border: 0;
+  }
+}
