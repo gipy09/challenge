@@ -36,12 +36,12 @@ function Testimonio() {
             <div className="contenido">
               <div className="info-test">
                 <img src={vector} alt="..." className="imgtest" />
-                <h5>Nombre y Apellido</h5>
+                <h5>Testimonio 1</h5>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui
-                  facilis blanditiis voluptate nesciunt optio explicabo minus
-                  est maxime amet deserunt rerum quibusdam totam eligendi illum
-                  maiores nam, nostrum soluta eveniet.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam
+                porro est quae, vitae asperiores iste? Animi similique labore
+                adipisci, reprehenderit dolorum quisquam quis placeat
+                reiciendis.
                 </p>
               </div>
             </div>
@@ -50,7 +50,7 @@ function Testimonio() {
             <div className="contenido">
               <img src={vector} alt="..." className="imgtest" />
 
-              <h5>Nombre y Apellido</h5>
+              <h5>Testimonio 2</h5>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam
                 porro est quae, vitae asperiores iste? Animi similique labore
@@ -63,7 +63,7 @@ function Testimonio() {
             <div className="contenido">
               <img src={vector} alt="..." className="imgtest" />
 
-              <h5>Nombre y Apellido</h5>
+              <h5>Testimonio 3</h5>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam
                 porro est quae, vitae asperiores iste? Animi similique labore

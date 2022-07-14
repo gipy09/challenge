@@ -92,7 +92,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-
+        
     }
     .img-contact img{
         width: 150px;
@@ -124,5 +124,34 @@
         max-width: 1500px;
         padding: 40px;
         margin: 20px auto;
+        
     }
+}
+@media (max-width:578px){
+    .contenido-contact{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+            
+        }
+        .img-contact img{
+            width: 150px;
+            height: 150px;
+        }
+        .formulario-contact{
+            text-align: center;
+            margin-top: 60px;
+            padding: 0;
+            
+        }
+        
+        .formulario-contact button{
+            align-items: center;
+            margin: 0px;
+            width: 74px;
+            height: 45px;
+        }
+        .contenido-contact .img-contact, .contenido-contact .formulario-contact{
+            width: 100%;
+        }
 }

@@ -27,7 +27,9 @@
 .imgtest{
     margin-bottom: 30px;
 }
-
+.carousel {
+    width: 700px;
+}
 @media (max-width:375px){
     .carousel-inner{
 
