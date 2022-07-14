@@ -6,15 +6,15 @@ function Testimonio() {
     <div className="contenedor">
       <div
         id="carouselExampleDark"
-        class="carousel carousel-dark slide"
+        className="carousel carousel-dark slide"
         data-bs-ride="carousel"
       >
-        <div class="carousel-indicators">
+        <div className="carousel-indicators">
           <button
             type="button"
             data-bs-target="#carouselExampleDark"
             data-bs-slide-to="0"
-            class="active"
+            className="active"
             aria-current="true"
             aria-label="Slide 1"
           ></button>
@@ -31,8 +31,8 @@ function Testimonio() {
             aria-label="Slide 3"
           ></button>
         </div>
-        <div class="carousel-inner">
-          <div class="carousel-item active">
+        <div className="carousel-inner">
+          <div className="carousel-item active" data-bs-interval="5000">
             <div className="contenido">
               <div className="info-test">
                 <img src={vector} alt="..." className="imgtest" />
@@ -46,7 +46,7 @@ function Testimonio() {
               </div>
             </div>
           </div>
-          <div class="carousel-item active ">
+          <div className="carousel-item  " data-bs-interval="5000">
             <div className="contenido">
               <img src={vector} alt="..." className="imgtest" />
 
@@ -59,7 +59,7 @@ function Testimonio() {
               </p>
             </div>
           </div>
-          <div class="carousel-item ">
+          <div className="carousel-item " data-bs-interval="5000">
             <div className="contenido">
               <img src={vector} alt="..." className="imgtest" />
 

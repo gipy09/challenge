@@ -85,6 +85,23 @@
     border: 0;
   }
 }
+@media (max-width: 401px) {
+  .menu {
+    padding-left: 6px;
+  }
+  .search {
+    padding-right: 6px;
+  }
+  .logo{
+    margin-left: 0px;
+  }
+  .menu-search{
+    margin-top: 55px !important;
+  }
+  .menu-search .buscarinput{
+    border: 0;
+  }
+}
 @media (max-width: 375px) {
   .menu {
     padding-left: 6px;

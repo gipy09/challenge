@@ -27,7 +27,23 @@
 .imgtest{
     margin-bottom: 30px;
 }
+
 @media (max-width:375px){
+    .carousel-inner{
+
+        height: 320px;
+     }
+     .contenedor{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        width: 100%;
+        height: 380px;
+        background-color: #ECF0F7;   
+    }
+}
+@media (max-width:401px){
     .carousel-inner{
 
         height: 320px;

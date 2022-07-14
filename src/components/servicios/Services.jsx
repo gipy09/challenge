@@ -10,7 +10,7 @@ function Services() {
       <div className="contenedor-card">
       <div className="cards" data-aos="fade-up">
         <div className="header-card">
-          <img src={news} class="card-img-top" alt="..." />
+          <img src={news} className="card-img-top" alt="..." />
         </div>
         <div className="name-card">Servicios</div>
         <div className="info-card">
@@ -20,7 +20,7 @@ function Services() {
       </div>
       <div className="cards"data-aos="fade-up" >
         <div className="header-card">
-          <img src={bienestar} class="card-img-top" alt="..." />
+          <img src={bienestar} className="card-img-top" alt="..." />
         </div>
         <div className="name-card">Servicios</div>
         <div className="info-card">
@@ -30,7 +30,7 @@ function Services() {
       </div>
       <div className="cards" data-aos="fade-up">
         <div className="header-card">
-          <img src={trabajo} class="card-img-top" alt="..." />
+          <img src={trabajo} className="card-img-top" alt="..." />
         </div>
         <div className="name-card">Servicios</div>
         <div className="info-card">

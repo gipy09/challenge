@@ -34,7 +34,7 @@ function Header() {
               </li>
             </ul>
 
-            <h5 class="title-item" href="#">
+            <h5 className="title-item" href="#">
               Educacion
             </h5>
             <ul>
@@ -54,14 +54,14 @@ function Header() {
           <img src={logo} alt="" />
         </div>
         <div className="search">
-          <div class="btn-group dropstart">
+          <div className="btn-group dropstart">
             <img src={lupa}
               type="button"
-              class="btn dropdown-toggle"
+              className="btn dropdown-toggle"
               data-bs-toggle="dropdown"
               aria-expanded="false"
             />
-            <ul class="dropdown-menu menu-search">
+            <ul className="dropdown-menu menu-search">
               <input type="text" placeholder="Buscar" className="buscarinput"/>
             </ul>
           </div>

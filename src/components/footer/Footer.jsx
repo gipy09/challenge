@@ -19,14 +19,14 @@ function Footer() {
       </div>
       </div>
   
-      <div className="pagefooter">
+     
         <ul className="pagelist">
         <li className="pageitem"><a href="">Potitica de Cookies</a> </li>
         <li className="pageitem"><a href="">Potitica de Privacidad</a> </li>
         <li className="pageitem"><a href="">Terminos y Condiciones</a> </li>
         <li className="pageitem"><a href="">Clausula Informativa</a> </li>
         </ul>
-      </div>
+    
     </div>
   );
 }
