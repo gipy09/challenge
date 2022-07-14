@@ -32,26 +32,23 @@ function Testimonio() {
           ></button>
         </div>
         <div class="carousel-inner">
-          <div class="carousel-item active" >
-            
-
+          <div class="carousel-item active">
             <div className="contenido">
               <div className="info-test">
-              <img src={vector} alt="..." className="imgtest"/>
-              <h5>Nombre y Apellido</h5>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam
-                porro est quae, vitae asperiores iste? Animi similique labore
-                adipisci, reprehenderit dolorum quisquam quis placeat
-                reiciendis.
-              </p>
-            </div>
+                <img src={vector} alt="..." className="imgtest" />
+                <h5>Nombre y Apellido</h5>
+                <p>
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui
+                  facilis blanditiis voluptate nesciunt optio explicabo minus
+                  est maxime amet deserunt rerum quibusdam totam eligendi illum
+                  maiores nam, nostrum soluta eveniet.
+                </p>
               </div>
+            </div>
           </div>
-          <div class="carousel-item active " >
-
+          <div class="carousel-item active ">
             <div className="contenido">
-            <img src={vector} alt="..." className="imgtest"/>
+              <img src={vector} alt="..." className="imgtest" />
 
               <h5>Nombre y Apellido</h5>
               <p>
@@ -62,10 +59,9 @@ function Testimonio() {
               </p>
             </div>
           </div>
-          <div class="carousel-item " >
-
+          <div class="carousel-item ">
             <div className="contenido">
-            <img src={vector} alt="..." className="imgtest"/>
+              <img src={vector} alt="..." className="imgtest" />
 
               <h5>Nombre y Apellido</h5>
               <p>
