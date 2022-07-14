@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/challenge/static/css/main.98562895.css",
+    "main.js": "/challenge/static/js/main.391c9e1f.js",
+    "static/js/787.942b99ef.chunk.js": "/challenge/static/js/787.942b99ef.chunk.js",
+    "static/media/banner.png": "/challenge/static/media/banner.bda32297283effdbcfcf.png",
+    "static/media/banner3.png": "/challenge/static/media/banner3.c004890933003ad31471.png",
+    "static/media/banner4.png": "/challenge/static/media/banner4.a60eb588353d3fdde930.png",
+    "static/media/banner2.jpg": "/challenge/static/media/banner2.677ceb0b39f8e2ac8903.jpg",
+    "static/media/trabajo.png": "/challenge/static/media/trabajo.12cb21fe79950a6ab025.png",
+    "static/media/bienestar.png": "/challenge/static/media/bienestar.91bc59f0fd0851eb20ea.png",
+    "static/media/news.png": "/challenge/static/media/news.8b8a6f970485255f96a0.png",
+    "index.html": "/challenge/index.html",
+    "main.98562895.css.map": "/challenge/static/css/main.98562895.css.map",
+    "main.391c9e1f.js.map": "/challenge/static/js/main.391c9e1f.js.map",
+    "787.942b99ef.chunk.js.map": "/challenge/static/js/787.942b99ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98562895.css",
+    "static/js/main.391c9e1f.js"
+  ]
+}
